@@ -15,11 +15,11 @@ Tento web slouží jako rozcestník k jednotlivým projektům, které vznikly v 
 
 ## 📂 Projekty
 
-[![project 01](images/rezacka.jpeg)](project_01)
+<!--- <a href="project_01"><img src="images/rezacka.jpeg" alt="Projekt 1" width="100%"></a> -->
 
 <table>
   <tr>
-    <td><a href="project_01"><img src="images/rezacka.jpeg" alt="Projekt 1" width="100%"></a></td>
+    <td>[![project 01](images/rezacka.jpeg)](project_01)</td>
     <td><a href="projekt2.html"><img src="images/3D_tiskarna.jpg" alt="Projekt 2" width="100%"></a></td>
   </tr>
   <tr>
