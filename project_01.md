@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Laserem řezané stínítko na lampu
 date: 2025-07-04
 categories: [projekty, laser]
