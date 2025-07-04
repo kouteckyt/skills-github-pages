@@ -19,7 +19,7 @@ Tento web slouží jako rozcestník k jednotlivým projektům, které vznikly v 
 
 <table>
   <tr>
-    <td>[![project 01](images/rezacka.jpeg)](project_01)</td>
+    <td> [![project 01](images/rezacka.jpeg)](project_01) </td>
     <td><a href="projekt2.html"><img src="images/3D_tiskarna.jpg" alt="Projekt 2" width="100%"></a></td>
   </tr>
   <tr>
