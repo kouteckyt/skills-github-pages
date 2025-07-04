@@ -17,7 +17,7 @@ Tento web slouží jako rozcestník k jednotlivým projektům, které vznikly v 
 
 <table>
   <tr>
-    <td><a href="_posts/2025/07/04/Project1.md"><img src="images/rezacka.jpeg" alt="Projekt 1" width="100%"></a></td>
+    <td><a href="/2025/07/04/Project1.md"><img src="images/rezacka.jpeg" alt="Projekt 1" width="100%"></a></td>
     <td><a href="projekt2.html"><img src="images/3D_tiskarna.jpg" alt="Projekt 2" width="100%"></a></td>
   </tr>
   <tr>
