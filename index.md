@@ -15,12 +15,6 @@ Tento web slouží jako rozcestník k jednotlivým projektům, které vznikly v 
 
 ## 📂 Projekty
 
-|                                       |        |
-|:-------------------------------------:|:------:|
-| [![project 1](images/rezacka.jpeg)](project_01) | [![project 2](images/3D_tiskarna.jpg)](project_02)
-
-
-<!---  [![project 01](images/rezacka.jpeg)](project_01)  -->
 
 <table>
   <tr>
